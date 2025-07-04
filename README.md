@@ -51,3 +51,11 @@ This project is a market management system developed in the C programming langua
 
 ```bash
 gcc -o market berenicerealoficial4khd_comentado.c
+```
+
+---
+
+## 👨‍💻 Autor
+**Domingues**
+
+[GitHub](https://github.com/akdomingues) · [LinkedIn](www.linkedin.com/in/dominguescaua)  
