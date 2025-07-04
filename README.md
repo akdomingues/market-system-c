@@ -58,4 +58,4 @@ gcc -o market berenicerealoficial4khd_comentado.c
 ## 👨‍💻 Autor
 **Domingues**
 
-[GitHub](https://github.com/akdomingues) · [LinkedIn](www.linkedin.com/in/dominguescaua)  
+[GitHub](https://github.com/akdomingues) · [LinkedIn](www.linkedin.com/in/dominguescaua) · [Instagram](https://www.instagram.com/exe.domingues/)  
